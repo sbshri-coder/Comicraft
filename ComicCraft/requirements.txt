@@ -3,11 +3,6 @@ uvicorn[standard]
 jinja2
 python-multipart
 google-genai
-diffusers
-transformers
-accelerate
-torch
 Pillow
 fpdf2
-safetensors
 python-dotenv
